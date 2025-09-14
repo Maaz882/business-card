@@ -1,11 +1,11 @@
 # 🃏 business card
 
 <a href="https://www.npmjs.com/package/devratdave">
-    <img alt="npm" src="https://img.shields.io/npm/v/devratdave?style=flat-square">
+    <img alt="npm" src="https://img.shields.io/npm/v/maaz_hasan?style=flat-square">
 </a>
 
 <a href="https://www.npmjs.com/package/devratdave">
-    <img alt="npm" src="https://img.shields.io/npm/dt/devratdave?style=flat-square">
+    <img alt="npm" src="https://img.shields.io/npm/dt/maaz_hasan?style=flat-square">
 </a>
 
 _Digital business card._
