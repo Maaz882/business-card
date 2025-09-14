@@ -3,7 +3,7 @@
   "version": "5.0.0",
   "description": "",
   "bin": {
-  "Maaz Hasan": "./cli.js"},
+  "maaz_hasan": "./cli.js"},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
